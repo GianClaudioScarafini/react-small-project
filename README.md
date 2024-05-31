@@ -15,3 +15,10 @@ install gitpage
 
 npm install react-bootstrap bootstrap
 
+## gsap
+
+npm install @gsap/react
+
+## react icon
+
+https://github.com/react-icons/react-icons
